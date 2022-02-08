@@ -14,4 +14,4 @@
 
 ### **3. Streamlit application page which shows recipient's balance**
 
-![Alt text]()
+![Alt text](https://github.com/jmushava/Blockchain_Wallet_Homework/blob/main/Images/recipient_eth_balance.png)
