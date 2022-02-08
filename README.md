@@ -10,4 +10,6 @@
 
 ### **2. Ganache dashboard which shows transaction details**
 
-![Alt text]
+![Alt text](https://github.com/jmushava/Blockchain_Wallet_Homework/blob/main/Images/transaction_details.png)
+
+### **3. Streamlit application page which shows recipient's balance**
