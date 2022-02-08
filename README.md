@@ -1,3 +1,13 @@
 # Blockchain Wallet Homework
 
 ## A Cryptocurrency Wallet that enables customers to send cryptocurrency payments to fintech professionals they hire.
+
+## Screenshots 
+
+### **1. Ganache dashboard which shows address balance**
+
+![Alt text](https://github.com/jmushava/Blockchain_Wallet_Homework/blob/main/Images/address_balance_and_history.png)
+
+### **2. Ganache dashboard which shows transaction details**
+
+![Alt text]
